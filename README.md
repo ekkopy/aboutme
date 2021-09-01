@@ -6,8 +6,6 @@ I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgnit
 
 And, in the database section, I know SQLServer, SQLite e MySQL.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=thiiagoms)
-
 # Languages:
 
 ![image](https://img.icons8.com/color/48/000000/python.png)
